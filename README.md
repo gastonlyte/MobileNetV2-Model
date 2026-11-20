@@ -16,3 +16,6 @@ Setup a google colab pro environment:This gives 100 compute units per month, Fas
 
 # Running the note book
 Run the notebook from top to bottom. It will download the zip to /content/, extract it, create the train/test split with SEED = 42, and train the model.
+
+# Running project with view access for your reference
+https://colab.research.google.com/drive/1IOFCHRAaebcj_LySBXq7uODy1VGJFuQy?usp=sharing 
